@@ -29,7 +29,7 @@ A complete full-stack web application for Hardware Boutique, a hardware store bu
 ## Tech Stack
 
 ### Frontend
-- **Framework**: Next.js 14 (React 18)
+- **Framework**: Next.js 16 (React 19)
 - **Styling**: CSS (custom styles)
 - **HTTP Client**: Axios
 - **Maps**: Google Maps JavaScript API

@@ -83,8 +83,8 @@
 ### Frontend
 | Technology | Version | Purpose |
 |------------|---------|---------|
-| Next.js | 14.x | React framework with SSR |
-| React | 18.x | UI library |
+| Next.js | 16.x | React framework with SSR |
+| React | 19.x | UI library |
 | Axios | 1.6.x | HTTP client |
 | Google Maps API | Latest | Map integration |
 
